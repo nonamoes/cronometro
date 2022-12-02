@@ -1,6 +1,6 @@
 clearInterval(stopwatchInterval);
 stopwatch.textContent = '00:00';
-}
+
 
 const start = () => {
 secondsSphere.style.animation = 'rotacion 60s linear infinite';
